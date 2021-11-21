@@ -1,4 +1,4 @@
-# Generative-Adversarial-Networks(GAN)
+# Facial Expression Recognition
 Facial expression recognition using deep convolutional neural network
 
 
